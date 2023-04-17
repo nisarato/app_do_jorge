@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'app-jorge-rato-v2'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_66C49C3B701D4221AED527236A16A7D6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4C5867900AB94E66B29EE550F4087D1A }}
           package: .
